@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aime-official",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "lemondeaime",
+			"database_id": "16c6b0d5-eb76-4f23-aa7a-8e97fced7b65"
+		}
+	]
+}
